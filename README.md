@@ -19,6 +19,10 @@
 
 #### setup daisyui
 
+#### firebase sign in documentation
+
+- https://firebase.google.com/docs/auth/web/password-auth
+
 ## go over topics
 
 - createUserWithEmailAndPassword
